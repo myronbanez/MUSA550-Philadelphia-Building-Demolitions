@@ -1,5 +1,5 @@
 ---
-title: "2. Philly Building Demolitions"
+title: "1. Philly Building Demolitions"
 date: 2022-12-18
 published: true
 tags: [dataviz, matplotlib]
